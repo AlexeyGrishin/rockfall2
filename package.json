@@ -1,0 +1,22 @@
+{
+  "name": "Rockfall2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "phaser": "^2.2.2",
+    "coffee-script": "*",
+    "less": "*",
+    "gulp": "*",
+    "gulp-coffee": "*",
+    "gulp-watch": "*",
+    "gulp-less": "*",
+    "gulp-util": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
